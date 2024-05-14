@@ -1,0 +1,10 @@
+Enter the number of productions: 2
+Enter the productions:
+A aB|
+B bA|
+Enter the non-terminal to eliminate left recursion for: A
+
+o:
+Productions after eliminating left recursion:
+B -> bA
+A -> aB
