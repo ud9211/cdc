@@ -1,0 +1,12 @@
+Enter the condition of the while statement: i < 10
+Enter the body of the while statement: i = i + 1
+
+out:
+
+Intermediate Code:
+L0:
+if i < 10 goto L1
+goto L2
+L1: i = i + 1
+goto L0
+L2:
