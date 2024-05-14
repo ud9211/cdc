@@ -1,0 +1,11 @@
+Enter the condition of the if statement: a > b
+Enter the true part of the if statement: x = 1
+Enter the false part of the if statement: x = 0
+
+out:
+Intermediate Code:
+if a > b goto L0
+x = 0
+goto L1
+L0: x = 1
+L1:
