@@ -1,0 +1,11 @@
+Enter the number of productions: 3
+Enter the productions:
+A aX|
+A aY|
+A bZ|
+Enter the non-terminal to perform left factoring for: A
+out
+Left factoring applied for A -> a
+New productions:
+A -> XA'
+A' -> Y | epsilon
